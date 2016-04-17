@@ -1,0 +1,33 @@
+baseurl = "https://huh.matify.co"
+languageCode = "en-us"
+title = "Huh, with Mat"
+theme = "hyde-x"
+paginate = 5
+defaultLayout = "post"
+
+[permalinks]
+  post = "/post/:year/:month/:slug"
+
+[taxonomies]
+  categories = "categories"
+  series = "series"
+
+[menu]
+  [[menu.main]]
+
+[author]
+  name = "mat haverty"
+
+[params]
+  truncate = false
+  theme = "theme-base-0b layout-reverse"
+  tagline = "dancing around a whole lot of nothing."
+  home = "home"
+
+  github = "https://github.com/mathasonet"
+  bitbucket = "https://bitbucket.org/mathasonet/"
+  twitter = "https://twitter.com/matifyed"
+
+  gravatarHash = "040f150cab5eabe8589b97c12575581d"
+[blackfriday]
+extensions = ["hardLineBreak"]

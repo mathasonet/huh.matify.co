@@ -9,11 +9,14 @@ defaultLayout = "post"
   post = "/post/:year/:month/:slug"
 
 [taxonomies]
-  categories = "categories"
+  category = "categories"
   series = "series"
 
 [menu]
   [[menu.main]]
+    name = "categories"
+    identifier = "categories"
+    url = "/categories/"
 
 [author]
   name = "mat haverty"

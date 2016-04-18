@@ -1,5 +1,5 @@
 +++
-categories = ["blog"]
+categories = ["blogs"]
 description = ""
 series = []
 date = "2016-04-17T08:22:13-07:00"

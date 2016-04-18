@@ -1,0 +1,40 @@
+# static engine of your blog ("general", "jekyll", "hexo", "html", "octopress")
+siteEngine: "general"
+# absolute path to the root directory of your blog
+siteLocalDir: "/Users/Mathew/Websites/huh"
+# directory to drafts from the root of siteLocalDir
+siteDraftsDir: "content/post/"
+# directory to posts from the root of siteLocalDir
+sitePostsDir: "content/post/"
+# directory to images from the root of siteLocalDir
+siteImagesDir: "images/{year}/{month}/"
+# URL to your blog
+siteUrl: "https://huh.matify.co"
+# URLs to tags/posts/categories JSON file
+# Wiki: https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
+urlForTags: ""
+urlForPosts: ""
+urlForCategories: "https://huh.matify.co/post/categories.json"
+# file extension of posts/drafts
+fileExtension: ".md"
+# whether rename filename based on title in front matter when publishing
+publishRenameBasedOnTitle: true
+# filename format of new posts/drafts created
+newPostFileName: "{year}-{month}-{day}-{title}{extension}"
+# front matter template
+frontMatter: """
++++
+description = ""
+series = []
+date = "<date>"
+title = "<title>"
+slug = "<title>"
+layout = <layout>
++++
+"""
+# reference tag insert position ("paragraph" or "article")
+referenceInsertPosition: "paragraph"
+# reference tag indent space (0 or 2)
+referenceIndentLength: 2
+# image tag template
+imageTag: "![<alt>](<src>)"

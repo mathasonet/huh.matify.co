@@ -22,7 +22,7 @@ defaultLayout = "post"
   name = "mat haverty"
 
 [params]
-  truncate = false
+  truncate = true
   theme = "theme-base-0b layout-reverse"
   tagline = "dancing around a whole lot of nothing."
   home = "home"

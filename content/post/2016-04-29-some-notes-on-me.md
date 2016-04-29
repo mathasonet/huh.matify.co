@@ -11,7 +11,7 @@ layout = "post"
 
 I've decided that it's time to finally stop lying to myself about relationships. Making a single other person happy for the rest of my lifetime is so specifically not feasible I am upset I never unpacked this idea earlier.
 <!--more-->
-Disclaimer: this post had a point when I started. Can't say it did by then end. Attempt to read at your own peril.
+Disclaimer: this post had a point when I started. Can't say it did by the end. Attempt to read at your own peril.
 
 I cheated on my first boyfriend almost two months into our relationship. At GSA camp, with my roommate. I wasn't exactly proud of the whole event considering Daniel was down the hall. (In fact, I couldn't even look at him and asked if I could ride back to San Francisco in a separate car.) He was ready to talk it out and smooth things over, but I wasn't. By then I wanted to die. Well, really I wanted to understand how I could sabotage a relationship and not feel bad in the moment. *Then* die. From there my first suicidal thoughts involved a breadknife and a toaster.
 

@@ -14,7 +14,7 @@ siteUrl: "https://huh.matify.co"
 # Wiki: https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
 urlForTags: ""
 urlForPosts: ""
-urlForCategories: "https://huh.matify.co/post/categories.json"
+urlForCategories: "http://localhost:1313/post/categories.json"
 # file extension of posts/drafts
 fileExtension: ".md"
 # whether rename filename based on title in front matter when publishing
@@ -29,7 +29,7 @@ series = []
 date = "<date>"
 title = "<title>"
 slug = "<title>"
-layout = <layout>
+layout = "<layout>"
 +++
 """
 # reference tag insert position ("paragraph" or "article")

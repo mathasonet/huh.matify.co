@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Disclaimer: this post had a point when I started. Can't say it did by the end. Attempt to read at your own peril."
 series = []
 categories = ["blogs"]
 date = "2016-04-29T02:28:00-07:00"

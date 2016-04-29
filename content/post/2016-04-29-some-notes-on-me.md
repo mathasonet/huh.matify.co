@@ -2,7 +2,7 @@
 description = ""
 series = []
 categories = ["blogs"]
-date = "2016-04-29 02:28"
+date = "2016-04-29T02:28:00-07:00"
 title = "some notes on me"
 slug = "some-notes-on-me"
 layout = "post"
